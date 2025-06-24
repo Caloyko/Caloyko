@@ -2,8 +2,8 @@
 I'm a **computer engineer specialized in healthcare** with a degree from *EPITA* and currently a **PhD researcher working on rare diseases** working with *AMC* and *ERDERA*.
 My focus? Making medical data more **FAIR** (Findable, Accessible, Interoperable, Reusable) to improve **diagnosis and patient care.**
 
-- 🚀 Passionate about data, ontologies, and making sense of complex medical information.
-- 💡 Always up for discussions on semantic interoperability, data standards, and rare disease research.
+- Passionate about data, ontologies, and making sense of complex medical information.
+- Always up for discussions on semantic interoperability, data standards, and rare disease research.
 
 
 
